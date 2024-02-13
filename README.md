@@ -1,3 +1,5 @@
+![Logo](logo.png)
+
 # ☕ Java Basics Exploration Revision
 
 Welcome to the Java Basics Exploration Revision repository! 🚀 This repository is dedicated to providing in-depth explanations and practical examples for fundamental Java programming concepts. Whether you're a beginner looking to strengthen your foundation or an intermediate learner aiming for a comprehensive review, you're in the right place.
