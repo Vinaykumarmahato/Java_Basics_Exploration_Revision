@@ -28,5 +28,8 @@ public class LogicalOperator {
         System.out.println(a != b);
         // Output : True
 
+        System.out.println(!false);
+        // Output : True
+
     }
 }
