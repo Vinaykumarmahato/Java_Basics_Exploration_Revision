@@ -18,8 +18,9 @@ Array ek aisa container hai jo ek hi naam ke neeche kayi values ko store kar sak
 
 2. **Fixed Size:** Arrays ka ek fixed size hota hai, matlab aap decide karte hain ki kitne elements usme honge jab aap use banate hain. Ye size banane ke baad badal nahi sakta.
 
-3. **Udaharan:**
+### Udaharan:
 
+```java
 // Integers ke ek array ko size 5 ke sath banaya
 int[] numbers = new int[5];
 
