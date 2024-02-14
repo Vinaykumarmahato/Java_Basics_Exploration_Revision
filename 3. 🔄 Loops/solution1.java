@@ -1,5 +1,3 @@
-package 3. 🔄 Loops;
-
 public class solution1 {
 
     // print 1 to 10 
