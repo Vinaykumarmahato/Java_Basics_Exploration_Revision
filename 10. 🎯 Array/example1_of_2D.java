@@ -7,8 +7,8 @@ public class example1_of_2D {
         int array[][]={
 
             {2,4,5,6,6},
-            {2,56,3,5,32},
-            {32,8,45,86,55}
+            {2,5,3,5,3},
+            {3,8,5,6,5}
         };
 
         for(int i=0;i<=array.length;i++){
