@@ -20,42 +20,25 @@ Array ek aisa container hai jo ek hi naam ke neeche kayi values ko store kar sak
 
 3. **Udaharan:**
 
-   ```java
-   // Integers ke ek array ko size 5 ke sath banaya
-   int[] numbers = new int[5];
-   
-   // Array ke elements ko values assign ki gayi
-   numbers[0] = 10;
-   numbers[1] = 20;
-   numbers[2] = 30;
-   numbers[3] = 40;
-   numbers[4] = 50;
-   
-   // Array ke elements ko access kiya gaya
-   int value = numbers[2];  // Ye 30 ko represent karta hai
+// Integers ke ek array ko size 5 ke sath banaya
+int[] numbers = new int[5];
+
+// Array ke elements ko values assign ki gayi
+numbers[0] = 10;
+numbers[1] = 20;
+numbers[2] = 30;
+numbers[3] = 40;
+numbers[4] = 50;
+
+// Array ke elements ko access kiya gaya
+int value = numbers[2];  // Ye 30 ko represent karta hai
+
 // Printing all elements in the array
 for (int i = 0; i < numbers.length; i++) {
     System.out.println(numbers[i]);
 }
 
 
-
-
-
-What is an Array?
-An array is like a container that can hold multiple values of the same type under one name. Imagine it as a row of boxes where you can store different items, and each box has a number assigned to it.
-
-Why Use Arrays?
-Organized Storage: Arrays help in organizing data. Instead of using separate variables for each piece of information, you can store them in an array.
-
-Easy Access: You can access the elements in an array using their index (box number). This makes it convenient to work with a large set of data.
-
-How Arrays Work:
-Indexing: Every element in an array has a unique index starting from 0. It's like numbering the boxes in our row. The first box is 0, the second is 1, and so on.
-
-Fixed Size: Arrays have a fixed size, meaning you decide how many elements it can hold when you create it. This size doesn't change once set.
-
-Example:
 
 
 
