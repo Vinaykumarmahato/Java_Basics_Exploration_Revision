@@ -21,7 +21,8 @@ public class example1_of_1D {
          * arrays known as the Enhanced for loop.
          */
 
-        // Lets see one example of 1D array.
+        // Lets see one example of 1D array. 
+        // allready the values has given next example will be without values given
 
         int arr[] = { 2, 4, 6, 8, 10 };
 
