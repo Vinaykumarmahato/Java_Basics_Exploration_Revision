@@ -1,13 +1,17 @@
-3.3 Jump Statement:
-3.3.1 break Statement:
-🔴 The break statement terminates the loop or switch statement and transfers control to the statement following the terminated statement.
+### 3.3 Jump Statement:
 
+#### 3.3.1 `break` Statement:
+
+🔴 The `break` statement terminates the loop or switch statement and transfers control to the statement following the terminated statement.
+
+```java
 for (int i = 0; i < array.length; i++) {
     if (array[i] == targetValue) {
         // Code to be executed when the target value is found
         break;
     }
 }
+
 
 
 3.3.2 continue Statement:
@@ -20,6 +24,7 @@ for (int i = 0; i < array.length; i++) {
     }
     // Code to be executed for valid values
 }
+
 
 
 3.3.3 return Statement:
