@@ -60,7 +60,7 @@ This single README file consolidates all the content for the specified section o
 
 🟢 The `for` loop executes a block of code repeatedly for a specified number of times.
 
-```java
+
 for (int i = 0; i < n; i++) {
     // Code to be executed in each iteration
 }
@@ -89,7 +89,7 @@ do {
 
 🔴 The `break` statement terminates the loop or switch statement and transfers control to the statement following the terminated statement.
 
-```java
+
 for (int i = 0; i < array.length; i++) {
     if (array[i] == targetValue) {
         // Code to be executed when the target value is found
