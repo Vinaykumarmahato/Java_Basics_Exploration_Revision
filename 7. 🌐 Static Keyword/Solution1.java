@@ -3,7 +3,9 @@ class Student {
 
     int stdid;
     int salary;
-    String CEO;
+   static String CEO;
+   // when here static was not involbe we were getting the o/p according to the user different ceo name
+   // but now due to this static the ceo name will be same for diffferent object 
 
     public void data() {
 
@@ -24,7 +26,8 @@ public class Solution1 {
 
         Arjun.stdid = 07;
         Arjun.salary = 500000;
-        Arjun.CEO = "Laura Lahasun";
+        Arjun.CEO = "anish kumar";
+        Arjun.CEO="ADV Indian Coder";
 
         vinay.data();
         Arjun.data();
