@@ -6,6 +6,7 @@ class Student {
    static String CEO;
    // when here static was not involbe we were getting the o/p according to the user different ceo name
    // but now due to this static the ceo name will be same for diffferent object 
+   // when we will have static keyword we aan use class name or a normal object name.
 
     public void data() {
 
