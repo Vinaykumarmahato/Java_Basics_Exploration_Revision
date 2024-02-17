@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class IfStatementSolution1 {
+public class IfElseStatementSolution1 {
     public static void main(String[] args) {
         
         // finf the greatest number in 2 given input
@@ -19,9 +19,7 @@ public class IfStatementSolution1 {
         if(a>b){
             System.out.println(" A is the Greatest Value");
         }
-        else{
-            System.out.println("A is not a Greatest Value");
-        }
+        
     }
 
 }
