@@ -18,9 +18,10 @@ This repository is dedicated to providing in-depth explanations and practical ex
 
 Welcome to the Control Statements section of the Java Basics Exploration Revision repository! In this section, we explore various control statements in Java, such as `if`, `else`, `switch`, as they are essential for directing the flow of a program based on specific conditions or iterations. Understanding these statements is fundamental to writing effective and logical Java code.
 
-- [3.A 🎭 Control Statements/3.1 Selection Statement (Conditional Statement)](3.A%20🎭%20Control%20Statements/3.1%20Selection%20Statement%20(Conditional%20Statement)/README.md)
-- [3.B 🎭 Control Statements/3.2 Iteration or Looping Statement](3.B%20🎭%20Control%20Statements/3.2%20Iteration%20or%20Looping%20Statement/README.md)
-- [3.C 🎭 Control Statements/3.3 Jump Statement](3.C%20🎭%20Control%20Statements/3.3%20Jump%20Statement/README.md)
+- [3.A 🎭 Control Statements/3.1 Selection Statement (Conditional Statement)](https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/3.%20%F0%9F%8E%AD%20Control%20Statements/3.1%20Selection%20Statement%20(Conditional%20Statement)/README.md)
+- [3.B 🎭 Control Statements/3.2 Iteration or Looping Statement](https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/3.%20%F0%9F%8E%AD%20Control%20Statements/3.2%20Iteration%20or%20Looping%20Statement/README.md)
+- [3.C 🎭 Control Statements/3.3 Jump Statement](
+https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/3.%20%F0%9F%8E%AD%20Control%20Statements/3.3%20Jump%20Statement/README.md)
 
  
 
