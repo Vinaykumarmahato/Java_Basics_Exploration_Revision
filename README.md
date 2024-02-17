@@ -38,6 +38,12 @@ This repository is dedicated to providing in-depth explanations and practical ex
 ### 10. 🎯 Array:
     - Mastering the usage of arrays in Java, including one-dimensional and multi-dimensional arrays.
 
+### 11. 🎭 Control Statements:
+    - Introduction to control statements in Java, including `if`, `else`, `switch`, and their usage for flow control in programs.
+
+
+    
+
 ## 🚀 How to Use This Repository:
 
 - Each topic is organized into its dedicated directory.
