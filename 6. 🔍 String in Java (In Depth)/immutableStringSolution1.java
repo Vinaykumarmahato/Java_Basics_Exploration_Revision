@@ -15,6 +15,9 @@ public class immutableStringSolution1 {
 		System.out.println(name);
 		name.concat("Founder of ADV Indian Coder");
 		System.out.println(name);
+		
+		
+		// the value cant be change in immutable String 
  
 	}
 
