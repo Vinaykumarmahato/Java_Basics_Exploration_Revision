@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1. 📘 Detailed Explained Java Programming"/>
+	<classpathentry kind="src" path="10. 🎯 Array"/>
+	<classpathentry kind="src" path="2. ➕ Operators"/>
+	<classpathentry excluding="3.3 Jump Statement/|3.2 Iteration or Looping Statement/|3.1 Selection Statement (Conditional Statement)/" kind="src" path="3. 🎭 Control Statements"/>
+	<classpathentry kind="src" path="3. 🎭 Control Statements/3.1 Selection Statement (Conditional Statement)"/>
+	<classpathentry kind="src" path="3. 🎭 Control Statements/3.2 Iteration or Looping Statement"/>
+	<classpathentry kind="src" path="3. 🎭 Control Statements/3.3 Jump Statement"/>
+	<classpathentry kind="src" path="4. ✨ Patterns"/>
+	<classpathentry kind="src" path="5. 🖥️ Console-Based Application"/>
+	<classpathentry kind="src" path="6. 🔍 String in Java (In Depth)"/>
+	<classpathentry kind="src" path="7. 🌐 Static Keyword"/>
+	<classpathentry kind="src" path="8. 🛡️ Encapsulation"/>
+	<classpathentry kind="src" path="9. 🛠️ Constructor"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
