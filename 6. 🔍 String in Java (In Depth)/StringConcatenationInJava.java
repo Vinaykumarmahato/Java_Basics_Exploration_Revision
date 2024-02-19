@@ -34,6 +34,14 @@ public class StringConcatenationInJava {
 
 
 
+         String s1=new String("ADV Indian Coder"+" ");
+         s1=s1.concat("Founder Adv Indian Coder");
+
+
+         System.out.println(s1);
+
+
+
 
     }
 }
