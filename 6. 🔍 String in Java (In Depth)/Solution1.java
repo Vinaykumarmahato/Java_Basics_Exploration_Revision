@@ -5,5 +5,7 @@ public class Solution1 {
         String name="Vinay Kumar Mahato";
 
         System.out.println(name);
+
+        
     }
 }
