@@ -22,6 +22,12 @@ public class DifferentWaysOfComparingString {
         System.out.println(s4==s5);// false
         System.out.println(s4.equals(s5));// true
 
+        System.out.println(s1==s4);// false
+        System.out.println(s2==s5);// false
+
+        System.out.println(s3==s4);// false
+        System.out.println(s1.equals(s2));// false
+
 
 
     }
