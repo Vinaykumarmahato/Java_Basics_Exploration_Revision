@@ -8,10 +8,6 @@ public class StringManupulation1 {
 		
 		String s3=s1+" "+s2;
 		System.out.println(s3+" ");
-		
-		
-		
-		
 	}
 
 }
