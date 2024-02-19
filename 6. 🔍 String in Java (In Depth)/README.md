@@ -1,5 +1,13 @@
 ### Understanding Strings in Java: Immutability, Mutability, and Memory Concepts
 
+![Alt Text](https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/6.%20%F0%9F%94%8D%20String%20in%20Java%20(In%20Depth)/image3.jpg)
+
+[Download PDF](https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/6.%20%F0%9F%94%8D%20String%20in%20Java%20(In%20Depth)/image2.pdf)
+
+
+![Alt Text](https://github.com/Vinaykumarmahato/Java_Basics_Exploration_Revision/blob/main/6.%20%F0%9F%94%8D%20String%20in%20Java%20(In%20Depth)/image1.png)
+
+
 public class StringExplanation {
 
     public static void main(String[] args) {
