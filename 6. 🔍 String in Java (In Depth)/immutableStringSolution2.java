@@ -64,5 +64,8 @@ public class immutableStringSolution2 {
 
         // Note: the CSP maintain one coppy of heap area object
 
+
+        System.out.println(s1==s4);//False
+
     }
 }
