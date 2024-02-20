@@ -39,5 +39,12 @@ public class StringConcatenationInJava {
 
         System.out.println(s1);
 
+        System.out.println(name3.equals(s1));// false
+
+        System.out.println(name3.equalsIgnoreCase(name2));// True
+
+
+
+
     }
 }
