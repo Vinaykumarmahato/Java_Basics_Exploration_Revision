@@ -6,7 +6,7 @@ class Employee  {
     String EmpName;
     int EmpAge;
     int EmpId;
-  static  String Company;
+  String Company;
 
     public void Employee(){
 
@@ -30,5 +30,8 @@ public class Solution4 {
         Arjun.EmpAge = 23;
         Arjun.EmpId = 07;
         Arjun.Company = "DSCET Spark Tech";
+        
+        vinay.Employee();
+        Arjun.Employee();
     }
 }
