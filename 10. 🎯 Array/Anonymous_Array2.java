@@ -1,5 +1,6 @@
 class Anonymous1{
 
+    
     public void display1(int arr[]) {
         for (int all : arr) {
             System.out.print(all + " ");
