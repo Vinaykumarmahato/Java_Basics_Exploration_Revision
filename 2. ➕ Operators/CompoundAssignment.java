@@ -15,9 +15,20 @@ public class CompoundAssignment {
         // System.out.println(c);
 
 
-        int a=20;
-        a+=20;
-        System.out.println("a= " + a);
+        // int a=20;
+        // a+=20;
+        // System.out.println("a= " + a);
+
+
+
+        int v=20;
+
+        v+=20;
+        System.out.println(v);
+
+        v-=10;
+        System.out.println(v);
+
 
 
     }
