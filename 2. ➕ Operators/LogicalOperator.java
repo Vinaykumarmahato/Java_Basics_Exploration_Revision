@@ -8,11 +8,16 @@ public class LogicalOperator {
          * NOT = !
          */
 
+
+
         int a = 10;
-        int b = 40;
+        int b = 10;
         int c = 30;
-        int d = 80;
-        int e = 90;
+
+        System.out.println(a==b && a==c && b==c);
+        
+        // int d = 80;
+        // int e = 90;
 
         // And Operation
 
