@@ -16,7 +16,5 @@ public class WAPtoSwapTwoNumber {
         System.out.println("The Value of A after Swapping "+a);
         System.out.println("The value of B after Swapping "+b);
 
-        
-
     }
 }
