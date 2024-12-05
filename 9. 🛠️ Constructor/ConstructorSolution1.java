@@ -8,6 +8,7 @@ class human {
         age = 19;
         name = "Vinay Kumar";
 
+        
     }
 }
 
