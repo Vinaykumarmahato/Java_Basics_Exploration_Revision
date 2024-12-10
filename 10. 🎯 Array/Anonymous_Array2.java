@@ -17,6 +17,8 @@ public class Anonymous_Array2 {
     object.display1(new int[]{95,98,54,856,55,65});
 
     }
+
+    
 }
 
 
