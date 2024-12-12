@@ -8,6 +8,7 @@ public class LogicalOperator1 {
          * NOT = !
          */
 
+        
 
         int a=10;
         int b=20;
