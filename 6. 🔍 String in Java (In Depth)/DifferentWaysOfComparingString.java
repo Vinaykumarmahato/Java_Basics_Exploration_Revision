@@ -2,6 +2,7 @@ public class DifferentWaysOfComparingString {
 
     public static void main(String[] args) {
 
+        
         String s1 = "Vinay Kumar";
         String s2 = "vinay kumar";
         String s3="Vinay Kumar";
