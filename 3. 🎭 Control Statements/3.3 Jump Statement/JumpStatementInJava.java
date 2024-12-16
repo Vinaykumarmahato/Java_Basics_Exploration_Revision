@@ -8,6 +8,7 @@ class JumpStatementInJava {
 
                 continue;
 
+                
             }
 
             System.out.println("The Value is:" + i);
