@@ -1,6 +1,6 @@
 
   🖥️ Explanation:
-  
+
   🤖 Our code runs on a CPU, which is a semiconductor device composed of
   🌐 transistors. Transistors are used to control the flow of electricity,
   📊 allowing for the representation of binary states. In digital systems, low
