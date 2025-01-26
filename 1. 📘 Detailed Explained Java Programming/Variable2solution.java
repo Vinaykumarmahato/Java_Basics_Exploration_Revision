@@ -8,4 +8,5 @@ public class Variable2solution {
         System.out.println(variable1);
         System.out.println(NameVariable2);
     }
+    
 }
