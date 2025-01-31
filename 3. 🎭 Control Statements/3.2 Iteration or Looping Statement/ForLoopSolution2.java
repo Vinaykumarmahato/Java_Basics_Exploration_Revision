@@ -13,6 +13,7 @@ public class ForLoopSolution2 {
         int sum=0
         ;
         
+        
         for(int num=0;num<=n;num++){
             sum=sum+num;
         }
