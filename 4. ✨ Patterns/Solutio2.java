@@ -43,5 +43,4 @@ public class Solutio2 {
 		p.show2();
 
 	}
-
 }
