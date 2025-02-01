@@ -14,7 +14,6 @@ public class Solution1 {
 
     public static void main(String[] args) {
         Solution1 example = new Solution1();
-
         // Accessing and modifying the private variable through public methods
         example.setData(42);
         int retrievedData = example.getData();
