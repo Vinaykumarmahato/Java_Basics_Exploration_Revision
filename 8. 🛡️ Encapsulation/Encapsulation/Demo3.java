@@ -9,6 +9,7 @@ class Info{
 		name=n;
 	}
 	
+	
 	public void setAge(int Age) {
 		
 		age=Age;
