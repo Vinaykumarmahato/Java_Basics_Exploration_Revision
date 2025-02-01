@@ -14,5 +14,4 @@ public class Solution5 {
 			System.out.println();
 		}
 	}
-
 }
