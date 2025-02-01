@@ -15,6 +15,5 @@ public class ForLoopSolution3 {
 
             System.out.println(num);
         }
-
     }
 }
