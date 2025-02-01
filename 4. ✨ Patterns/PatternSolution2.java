@@ -12,7 +12,7 @@ class PatternSolution2 {
 			
 			System.out.println();
 		}
-		
+	
 	}
 
 }
