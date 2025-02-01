@@ -15,6 +15,5 @@ public class CompoundAssignmentSolutionrevision1 {
 
         a*=50;
         System.out.println(a); //150
-]
     }
 }
