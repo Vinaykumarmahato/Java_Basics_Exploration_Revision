@@ -6,7 +6,7 @@ public class project1 {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        
+    
         int lowerBound = 1;
         int upperBound = 100;
         int randomNumber = random.nextInt(upperBound - lowerBound + 1) + lowerBound;
