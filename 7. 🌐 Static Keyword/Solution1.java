@@ -12,7 +12,6 @@ class Student {
 
         System.out.println(stdid + " " + salary + " " + CEO);
     }
-
 }
 
 public class Solution1 {
