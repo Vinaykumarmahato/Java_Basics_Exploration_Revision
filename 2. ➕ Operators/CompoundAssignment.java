@@ -29,7 +29,5 @@ public class CompoundAssignment {
         v-=10;
         System.out.println(v);
 
-
-
     }
 }
