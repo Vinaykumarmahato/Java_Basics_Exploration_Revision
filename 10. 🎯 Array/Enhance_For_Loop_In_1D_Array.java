@@ -6,6 +6,7 @@ public class Enhance_For_Loop_In_1D_Array {
 
         for(int Note:array){
             System.out.print(Note);
+            
         }
     }
 }
