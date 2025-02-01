@@ -4,7 +4,6 @@ public class IfElseStatementSolution1 {
     public static void main(String[] args) {
         
         // Find the greatest number between two given inputs
-
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter The First Number:");
