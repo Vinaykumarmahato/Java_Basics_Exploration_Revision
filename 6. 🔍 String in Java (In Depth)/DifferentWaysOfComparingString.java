@@ -13,7 +13,6 @@ public class DifferentWaysOfComparingString {
         /*The equality operation, represented by the == operator, is used to compare
          references, while the .equals() method is employed to compare values.
 */
-
         System.out.println(s1==s2);// false
         System.out.println(s1==s3);// true
 
