@@ -7,7 +7,7 @@ class coreJava{
 
             System.out.println(vinay);
         }
-        
+      
     }
 }
 
