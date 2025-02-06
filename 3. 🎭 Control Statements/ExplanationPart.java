@@ -6,7 +6,7 @@ public class ExplanationPart {
          * Control statement is used to control the flow of the Program
          * 
          * It has three type
-    
+
          * 
          * 
          * (1) Selection Statement(Conditional Statement)
