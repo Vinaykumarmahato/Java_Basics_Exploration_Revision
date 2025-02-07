@@ -12,7 +12,6 @@ public class StringExplanation {
          * Mutable String, also known as Memory map: It means the String can be changed.
          * Immutable: It means the String cannot be changed (String builder, StringBuffer).
          */
-
         // We create an object of the String class, which is immutable.
         String name = new String(); // Creating a new String object
         name = "Vinay Kumar"; // Assigning a value to the String object
