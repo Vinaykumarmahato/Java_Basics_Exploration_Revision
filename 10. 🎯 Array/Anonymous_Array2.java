@@ -9,6 +9,7 @@ class Anonymous1{
 }
 
 
+
 public class Anonymous_Array2 {
     
     public static void main(String[] args) {
