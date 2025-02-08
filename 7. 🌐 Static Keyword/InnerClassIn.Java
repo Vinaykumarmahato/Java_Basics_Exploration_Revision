@@ -6,6 +6,7 @@ class outer{
 
     }
 
+
     class Inner{
 
         public void Display(){
