@@ -12,6 +12,7 @@ class StudentInformation{
 		
 	}
 	
+	
 	public void SetAge(int Age) {
 		
 		age=Age;
