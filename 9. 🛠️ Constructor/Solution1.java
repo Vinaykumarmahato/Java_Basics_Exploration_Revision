@@ -2,6 +2,7 @@ public class Solution1 {
     // Private variable encapsulated within the class
     private int data;
 
+    
     // Constructor to initialize the private variable
     public Solution1(int initialValue) {
         // Additional logic or validation can be added here
