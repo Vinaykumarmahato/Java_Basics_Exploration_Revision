@@ -8,7 +8,6 @@ public class ExplanationPart {
          * It has three type
 
          * 
-         * 
          * (1) Selection Statement(Conditional Statement)
          *    if , if else , Nested if , Switch
          * 
