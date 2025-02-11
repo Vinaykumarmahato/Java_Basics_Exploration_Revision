@@ -12,6 +12,7 @@ class coreJava{
 }
 
 
+
 public class Anonymous_Array3 {
     public static void main(String[] args) {
         coreJava obj=new coreJava();
