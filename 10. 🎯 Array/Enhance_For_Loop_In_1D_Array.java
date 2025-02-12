@@ -8,5 +8,6 @@ public class Enhance_For_Loop_In_1D_Array {
             System.out.print(Note);
             
         }
+        
     }
 }
