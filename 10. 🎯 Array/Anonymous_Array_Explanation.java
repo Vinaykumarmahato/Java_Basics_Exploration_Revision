@@ -12,7 +12,6 @@ public class Anonymous_Array_Explanation {
          * here we have given the name of the array that is arr and we are storing our data in this arr
          * hence this type of array which has no Array name called as Anonymous array.
          */
-
         
     }
 }
