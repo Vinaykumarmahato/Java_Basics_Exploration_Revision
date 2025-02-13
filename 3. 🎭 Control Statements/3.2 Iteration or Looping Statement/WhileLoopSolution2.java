@@ -7,7 +7,6 @@ public class WhileLoopSolution2 {
         Scanner sc=new Scanner(System.in);
 
         System.out.println("Enter the number of N");
-
         int n=sc.nextInt();
 
         int Number=1;
