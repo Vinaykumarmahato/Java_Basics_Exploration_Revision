@@ -11,6 +11,6 @@ public class PrintMultiplicationTableFirstTime {
 
             System.out.println(Number+"*"+i+"="+Number*i);
         }
-        
+    
     }
 }
