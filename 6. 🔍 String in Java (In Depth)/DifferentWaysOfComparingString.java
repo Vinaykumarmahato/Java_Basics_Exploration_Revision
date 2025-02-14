@@ -28,7 +28,5 @@ public class DifferentWaysOfComparingString {
         System.out.println(s3==s4);// false
         System.out.println(s1.equals(s2));// false
 
-
-
     }
 }
