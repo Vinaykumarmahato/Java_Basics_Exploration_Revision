@@ -10,7 +10,6 @@ public class project1 {
         int upperBound = 100;
         int randomNumber = random.nextInt(upperBound - lowerBound + 1) + lowerBound;
 
-
         int numberOfAttempts = 0;
         boolean hasGuessedCorrectly = false;
 
