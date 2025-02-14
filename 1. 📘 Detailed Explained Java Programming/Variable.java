@@ -9,4 +9,5 @@ public class Variable {
         int b=20;
         System.out.println("The valu of b is"+a);
     }
+    
 }
