@@ -6,6 +6,7 @@ public class Solution1 {
     public int getData() {
         return data;
     }
+    
 
     public void setData(int newValue) {
         // Additional logic or validation can be added here
