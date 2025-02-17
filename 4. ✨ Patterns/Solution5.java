@@ -10,7 +10,6 @@ public class Solution5 {
 
 				System.out.print("*" + " ");
 			}
-
 			System.out.println();
 		}
 	}
