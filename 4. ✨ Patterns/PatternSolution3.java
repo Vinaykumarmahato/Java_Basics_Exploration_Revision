@@ -14,7 +14,8 @@ public class PatternSolution3 {
 		 * 		
 		 * 
 		 * Let's Print This
-		 * 
+   
+   * 
 		 * 
 		 * */
 		int n=12;
