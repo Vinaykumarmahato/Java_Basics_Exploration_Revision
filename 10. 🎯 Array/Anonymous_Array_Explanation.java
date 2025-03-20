@@ -1,6 +1,7 @@
 public class Anonymous_Array_Explanation {
     
     public static void main(String[] args) {
+
         
         /*
          * when the name of the array won't be given then it will be called as Anonymous Array.
