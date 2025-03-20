@@ -24,10 +24,17 @@ public class CompoundAssignment {
         int v=20;
 
         v+=20;
-        System.out.println(v);
+        // System.out.println(v);
 
         v-=10;
-        System.out.println(v);
+        // System.out.println(v);
+
+        int vinay=20;
+        int kumar=90;
+        vinay+=30;
+        System.out.println(vinay);
+        kumar-=70;
+        System.out.println(kumar);
 
     }
 }
