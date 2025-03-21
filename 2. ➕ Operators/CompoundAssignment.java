@@ -31,10 +31,12 @@ public class CompoundAssignment {
 
         int vinay=20;
         int kumar=90;
+
         vinay+=30;
-        System.out.println(vinay);
         kumar-=70;
-        System.out.println(kumar);
+        
+        System.out.println("Vinay has:"+vinay);
+        System.out.println("Kumar has: "+kumar);
 
     }
 }

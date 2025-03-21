@@ -12,6 +12,11 @@ public class LogicalOperator1 {
         int b=20;
         int c=30;
 
+        System.out.println(a==b && a==c && b==c);
+        System.out.println(a==b || a==c || b==c);
+        System.out.println(a!=b);
+
+
        
     }
 }
