@@ -1,4 +1,4 @@
-package Problems;
+
 
 public class Solution1 {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Solution1 {
                 arr[i] += 10;
             }
         }
-        print(arr);
+        print(arr); 
     }
 
     public static void print(int[] arr) {
